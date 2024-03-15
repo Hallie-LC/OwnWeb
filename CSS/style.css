@@ -1,0 +1,26 @@
+body{
+    background-color:rgb(189, 202, 185);
+    border: 15px solid #bca96a;
+    padding: 30px;
+}
+
+.heading{
+    background-color: aliceblue;
+    opacity: 80%;
+    box-align: center;
+    
+}
+
+
+.studentNo{
+    display:None
+}
+
+main{
+    display:grid;
+    grid-template-columns: 10% 90%;
+}
+
+.subHeading{
+    
+}
